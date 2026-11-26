@@ -72,7 +72,7 @@ Agent Auth Gateway (Ingenious AI) provides an authorization layer for always‑o
 
 Everything profiled for Agent Auth Gateway (Ingenious AI) is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/authgateway-getingeniousai-com/](https://apis.io/providers/authgateway-getingeniousai-com/)** — or go straight to one of the APIs or properties below.
 
-### APIs (17)
+### APIs (18)
 
 - [Agent Auth Gateway (Ingenious AI) Agents API](https://apis.io/apis/authgateway-getingeniousai-com/authgateway-getingeniousai-com-agents-api/) — The Agents API from Agent Auth Gateway (Ingenious AI) — 4 operation(s) for agents.
 - [Agent Auth Gateway (Ingenious AI) Approvals API](https://apis.io/apis/authgateway-getingeniousai-com/authgateway-getingeniousai-com-approvals-api/) — The Approvals API from Agent Auth Gateway (Ingenious AI) — 5 operation(s) for approvals.
@@ -91,6 +91,7 @@ Everything profiled for Agent Auth Gateway (Ingenious AI) is published on APIs.i
 - [Agent Auth Gateway (Ingenious AI) Simulate API](https://apis.io/apis/authgateway-getingeniousai-com/authgateway-getingeniousai-com-simulate-api/) — The Simulate API from Agent Auth Gateway (Ingenious AI) — 1 operation(s) for simulate.
 - [Agent Auth Gateway (Ingenious AI) Tool Definition Guard API](https://apis.io/apis/authgateway-getingeniousai-com/authgateway-getingeniousai-com-tool-definition-guard-api/) — The Tool Definition Guard API from Agent Auth Gateway (Ingenious AI) — 1 operation(s) for tool definition guard.
 - [Agent Auth Gateway (Ingenious AI) Usage API](https://apis.io/apis/authgateway-getingeniousai-com/authgateway-getingeniousai-com-usage-api/) — The Usage API from Agent Auth Gateway (Ingenious AI) — 1 operation(s) for usage.
+- [Agent Auth Gateway (Ingenious AI) Attestations API](https://apis.io/apis/authgateway-getingeniousai-com/authgateway-getingeniousai-com-attestations-api/) — The Attestations API from Agent Auth Gateway (Ingenious AI) — 4 operation(s) for attestations.
 
 ### Published properties
 
@@ -101,6 +102,12 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 Which operations an agent can call, which act, and which need a human in the loop.
 
 - [Agent Auth Gateway (Ingenious AI) Agentic Access](https://apis.io/agentic-access/authgateway-getingeniousai-com/authgateway-getingeniousai-com-agentic-access/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Agent Auth Gateway (Ingenious AI) Openapi Overlay](https://apis.io/overlays/authgateway-getingeniousai-com/authgateway-getingeniousai-com-openapi-overlay/)
 
 #### Governance rules (1)
 
@@ -138,16 +145,16 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 49.8** — developing · rubric 0.27.0 · scored 2026-11-17
+**Kin Score 50.0** — developing · rubric 0.28.0 · scored 2026-11-26
 
 | Facet | Score |
 |---|---|
-| Discoverability | 57.1 |
-| Contract quality | 39.2 |
-| Contract governance | 65.5 |
-| Operational transparency | 10.5 |
+| Discoverability | 67.9 |
+| Contract quality | 41.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 9.5 |
 | Developer ergonomics | 42.1 |
-| Access clarity | 73.2 |
+| Access clarity | 59.1 |
 
 **Agent readiness 30.5** — agent-ready
 
